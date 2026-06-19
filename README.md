@@ -1,5 +1,6 @@
 # Incident-Investigation_Lab
 Simulate a real cyberattack in a homelab and investigate it
+
 I will:
   Generate fake malicious activity
   Collect logs
